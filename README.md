@@ -25,33 +25,35 @@
   />
 </div>
 <h2>FRONT-END</h2>
-<img width="32" />
-<img
-  src="https://www.svgrepo.com/show/373669/html.svg"
-  height="40"
-  alt="html logo"
-/>
-<img width="12" />
-<img
-  src="https://www.svgrepo.com/show/373535/css.svg"
-  height="40"
-  alt="css logo"
-/>
-<img width="12" />
-<img
-  src="https://www.svgrepo.com/show/452045/js.svg"
-  height="40"
-  alt="Js logo"
-/>
-<br />
-<br />
+<div align="left">
+  <img width="32" />
+  <img
+    src="https://www.svgrepo.com/show/373669/html.svg"
+    height="40"
+    alt="html logo"
+  />
+  <img width="12" />
+  <img
+    src="https://www.svgrepo.com/show/373535/css.svg"
+    height="40"
+    alt="css logo"
+  />
+  <img width="12" />
+  <img
+    src="https://www.svgrepo.com/show/452045/js.svg"
+    height="40"
+    alt="Js logo"
+  />
+</div>
 <h2>BACK-END</h2>
-<img width="28" />
-<img
-  src="https://www.svgrepo.com/show/452091/python.svg"
-  height="40"
-  alt="python logo"
-/>
+<div align="left">
+  <img width="32" />
+  <img
+    src="https://www.svgrepo.com/show/452091/python.svg"
+    height="40"
+    alt="python logo"
+  />
+</div>
 <br />
 <br />
 <br />
