@@ -15,7 +15,6 @@
     src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"
   />
 </div>
-<h1 align="center">Olá Mundo! 👋</h1>
 <div align="left">
   <img width="52" />
   <img
